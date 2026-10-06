@@ -2,8 +2,8 @@
   {
     "id": "amex-platinum",
     "issuer": "American Express",
-    "displayName": "AmexPlat",
-    "shortName": "AmexPlat",
+    "displayName": "The Platinum Card\u00ae from American Express",
+    "shortName": "Amex Plat",
     "network": "American Express",
     "annualFee": 895.0,
     "authorizedUserFee": 195.0,
@@ -33,7 +33,7 @@
       },
       {
         "id": "amex-plat-hotel-credit",
-        "name": "Hotel Credit (Fine Hotels + Resorts\u00ae / The Hotel Collection)",
+        "name": "Hotel Credit (FHR / Hotel Collection)",
         "shortDescription": "Up to $300 semi-annually, $600/year",
         "fullDescription": "Statement credits up to $300 semi-annually on prepaid Fine Hotels + Resorts\u00ae or The Hotel Collection bookings through Amex Travel. The Hotel Collection requires a minimum two-night stay.",
         "frequency": "semiAnnual",
@@ -683,7 +683,7 @@
   {
     "id": "chase-sapphire-reserve",
     "issuer": "Chase",
-    "displayName": "CSR",
+    "displayName": "Chase Sapphire Reserve",
     "shortName": "CSR",
     "network": "Visa",
     "annualFee": 795.0,
@@ -729,7 +729,7 @@
       },
       {
         "id": "csr-edit-hotel-credit",
-        "name": "The Edit by Chase Travel Hotel Credit",
+        "name": "The Edit Hotel Credit",
         "shortDescription": "Up to $250 per booking, up to two bookings/year ($500/year)",
         "fullDescription": "Get up to $500 annually for prepaid bookings made with The Edit\u2120, Chase's hand-picked collection of hotels and resorts.",
         "frequency": "annual",
@@ -778,7 +778,7 @@
       },
       {
         "id": "csr-apple-tv",
-        "name": "Complimentary Apple TV",
+        "name": "Apple TV",
         "shortDescription": "Complimentary Apple TV, runs through June 22, 2027",
         "fullDescription": "Complimentary Apple TV subscription \u2014 activate through the Chase app or website. Runs through June 22, 2027. Existing Apple One subscribers can instead get a $7.50/month discount on their Apple One plan (as of June 2026 \u2014 see notes).",
         "frequency": "oneTime",
@@ -796,7 +796,7 @@
       },
       {
         "id": "csr-apple-music",
-        "name": "Complimentary Apple Music",
+        "name": "Apple Music",
         "shortDescription": "Complimentary Apple Music, runs through June 22, 2027",
         "fullDescription": "Complimentary Apple Music subscription \u2014 activate through the Chase app or website. Runs through June 22, 2027. Existing Apple One subscribers can instead get a $7.50/month discount on their Apple One plan (as of June 2026 \u2014 see notes).",
         "frequency": "oneTime",
@@ -814,7 +814,7 @@
       },
       {
         "id": "csr-dashpass-membership",
-        "name": "Complimentary DashPass Membership",
+        "name": "DashPass Membership",
         "shortDescription": "$0 delivery fees & lower service fees on DoorDash for at least one year",
         "fullDescription": "Complimentary DashPass membership, unlocking $0 delivery fees and lower service fees, for a minimum of one year when activated by December 31, 2027.",
         "frequency": "oneTime",
